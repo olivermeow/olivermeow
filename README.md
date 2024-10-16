@@ -8,7 +8,6 @@
 <h1 align="center">
   <a href="#"><img src="https://media1.tenor.com/m/nisaHYy8yAYAAAAd/besito-catlove.gif" width="40"></a> Languages, Tools, IDE and so on <a href="#"><img src="https://media1.tenor.com/m/nisaHYy8yAYAAAAd/besito-catlove.gif" width="40"></a>
 </h3>
- ![download (1)](https://github.com/user-attachments/assets/11da2d77-27e4-40fc-a3ff-e7fb740caaeb)
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/.dotnet-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
